@@ -1,0 +1,44 @@
+body {
+    background-color: lightskyblue;
+}
+
+.top-buttons {
+    text-align: right;
+    margin: 5px;
+    border-style: solid;
+    border-color: white;
+    background-color: white;
+}
+
+.main-part {
+    margin: 100px 250px 200px 250px;
+    width: 30%;
+    background-color: white;
+    
+
+}
+
+h1 {
+    text-align: left;
+    margin-left: 5%;
+}
+
+/* form {
+    padding: 20px;
+} */
+div {
+    padding: 10px;
+}
+
+.submit-button {
+    /* margin-left: 35%; */
+    color: white;
+    background-color: rgb(26, 155, 236);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+footer {
+   border-top: solid 1px lightgray;
+}
